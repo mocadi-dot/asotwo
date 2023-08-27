@@ -299,7 +299,7 @@ button.donate_btn {
     width: 100%;
     float: left;
     background-image: url('../images/banner-bg1.png'); /* Correction ici */
-    height: auto;
+    height: max;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
